@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	
+	<%request.getParameter("PARAMETER_TITLE"); %>
+	
+	<a href="index.jsp?section=pages/A.jsp"></a>
+	<a href="index.jsp?section=pages/B.jsp"></a>
+	<a href="index.jsp?section=pages/C.jsp"></a>
+	<%
+		switch(VALUE) {
+		case "VALI":
+			CODE
+			break;
+		default:
+			break;
+		}
+	%>
+</body>
+</html>

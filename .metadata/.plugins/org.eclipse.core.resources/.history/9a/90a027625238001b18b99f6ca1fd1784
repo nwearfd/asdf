@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import="java.sql.*" %>
+
+<table border="1>
+<%
+	try {
+		Class.forName("oracle.jdbc.OracleDriver");
+		Connection conn = DriverManager.getConnection
+		("jdbc:oracle:thin:@//localhost:1521/xe", "system", "1234");
+		Statement stmt = conn.createStatement();
+		String query = "SELECT * FROM TBL_PIZZA_01";
+		ResultSet rs = stmt.executeQuery(query);
+		while (rs.next()) {
+			
+		}
+		stmt.close();
+		conn.close();
+	}
+	catch (Exception e) {
+		e.printStackTrace();
+	}
+%>
+</table>

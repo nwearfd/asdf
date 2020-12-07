@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file = "pages/A.jsp" %>
+<%@ include file = "pages/B.jsp" %>
+<%@ include file = "pages/C.jsp" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<a href="index.jsp?section=pages/A.jsp"></a>
+	<a href="index.jsp?section=pages/B.jsp"></a>
+	<a href="index.jsp?section=pages/C.jsp"></a>
+	<%
+		switch(VALUE) {
+			case "VALI":
+				request.getParameter("PARAMETER_TITLE");						
+				break;
+			default:
+				request.getParameter("PARAMETER_TITLE");
+		}
+	%>
+</body>
+</html>

@@ -1,0 +1,14 @@
+
+12월 07, 2020 13:03:27.78 NEW SESSION
+12월 07, 2020 13:03:27.78 [19656:1752:1207/130327.075:ERROR:device_event_log_impl.cc(211)] [13:03:27.075] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 07, 2020 13:03:27.79 [19656:1752:1207/130327.075:ERROR:device_event_log_impl.cc(211)] [13:03:27.076] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 07, 2020 13:03:27.79 [19656:1752:1207/130327.076:ERROR:device_event_log_impl.cc(211)] [13:03:27.076] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 07, 2020 13:03:27.80 [19656:1752:1207/130327.076:ERROR:device_event_log_impl.cc(211)] [13:03:27.076] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 07, 2020 13:03:27.117 [19656:16448:1207/130327.116:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+12월 07, 2020 13:03:53.736 [19656:16448:1207/130353.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+12월 07, 2020 13:04:50.562 [19656:16448:1207/130450.562:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+12월 07, 2020 13:06:28.571 [19656:16448:1207/130628.570:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+12월 07, 2020 13:10:25.275 [19656:16448:1207/131025.275:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+12월 07, 2020 13:13:15.782 [1207/131315.781:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 07, 2020 13:17:24.291 [19656:16448:1207/131724.291:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+12월 07, 2020 13:35:19.234 [19656:1752:1207/133519.234:ERROR:device_event_log_impl.cc(211)] [13:35:19.234] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
