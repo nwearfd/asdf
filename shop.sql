@@ -56,3 +56,4 @@ insert into sale values(12, 1, '20200122', 1000000, 1);
 insert into sale values(13, 4, '20200124', 80000, 1);
 insert into sale values(14, 5, '20200126', 210000, 1);
 insert into sale values(15, 6, '20200129', 160000, 1);
+
