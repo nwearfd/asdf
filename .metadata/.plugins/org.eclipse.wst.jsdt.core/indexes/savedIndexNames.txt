@@ -1,13 +1,10 @@
 INDEX VERSION 1.4+C:\Users\wearf\Documents\GitHub\shopping\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2148718898.index
 1599268396.index
 2117115177.index
 1219349559.index
-669947928.index
-264726524.index
+2847601337.index
 3611444748.index
 3069134441.index
-1193180549.index
 572919310.index
-2237438202.index
+1599268396.index
 2545638659.index
